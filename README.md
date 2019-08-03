@@ -1,3 +1,7 @@
 # clonegit
 aaa
-bbb
+<<<<<<< HEAD
+bbb2
+=======
+bbb2
+>>>>>>> feaure1
